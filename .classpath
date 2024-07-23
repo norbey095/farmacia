@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="autocompletado/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="connector/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="lib" path="dist/Farmacia.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

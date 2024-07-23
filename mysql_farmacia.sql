@@ -1,0 +1,1 @@
+SELECT * FROM farmacy_database.employs;
